@@ -4,3 +4,4 @@ Rencana kedepannya :
 - Bisa mengikuti seri node js di channel wpu
 - Bisa mengikuti seri webpack
 - Mempeljari express js
+- Mempelajari data base
