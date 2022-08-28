@@ -3,3 +3,4 @@ Rencana kedepannya :
 - Bisa mengikuti seri git di channel wpu
 - Bisa mengikuti seri node js di channel wpu
 - Bisa mengikuti seri webpack
+- Mempeljari express js
