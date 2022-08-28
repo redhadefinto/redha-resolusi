@@ -1,6 +1,5 @@
 Redha resolusi
 - Konsisten dalam menjalankan full stack-developer
-- Mempelajari tailwind
 - Mempelajari react js
 - Mempelajari node js
-- Mempelajari Beberapa Data base
+- Mempelajari mySQL
