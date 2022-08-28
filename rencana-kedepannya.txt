@@ -1,0 +1,4 @@
+Rencana kedepannya :
+- Bisa mempelajari react lebih jauh lagi
+- Bisa mengikuti seri git di channel wpu
+- Bisa mengikuti seri node js di channel wpu
